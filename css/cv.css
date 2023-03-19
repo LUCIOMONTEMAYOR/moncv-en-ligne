@@ -1,0 +1,40 @@
+body{
+   
+}
+h1, h2{
+    text-align: center;
+
+}
+.contenu{
+    width: 500px;
+    margin: 10px auto;
+    
+}
+p{
+    margin: 0px;
+}
+
+.details{
+   
+    height: 150px;
+}
+div.details img{
+    float: left;
+    height: 150px;
+    border-radius: 45%;
+}
+.liste_details{
+
+    float: left;
+    list-style-type: none;
+    margin-top: 25px;
+}
+.cv_section{
+  
+padding-bottom: 20px;
+}
+ hr{
+    
+    border-color: lightskyblue;
+
+}
